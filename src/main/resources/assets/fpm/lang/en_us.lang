@@ -1,0 +1,29 @@
+//Items
+item.purebalance_ingot.name=Purebalance Ingot
+item.demonic_ingot.name=Demonic Ingot
+
+//Blocks
+tile.purebalance_ore.name=Purebalance Ore
+
+//Tools
+item.purebalance_sword.name=Purebalance Sword
+item.purebalance_hoe.name=Purebalance Hoe
+item.purebalance_axe.name=Purebalance Axe
+item.purebalance_shovel.name=Purebalance Shovel
+item.purebalance_pickaxe.name=Purebalance Pickaxe
+
+item.demonic_sword.name=Demonic Sword
+item.demonic_hoe.name=Demonic Hoe
+item.demonic_axe.name=Demonic Axe
+item.demonic_shovel.name=Demonic Shovel
+item.demonic_pickaxe.name=Demonic Pickaxe
+
+
+//Armour
+item.leggings_demonic.name=Demonic Leggings
+item.helmet_demonic.name=Demonic Helmet
+item.boots_demonic.name=Demonic Boots
+item.chestplate_demonic.name=Demonic Chestplate
+
+//Special
+item.motivation_stick.name=Motivation Stick

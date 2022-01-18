@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " D ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "fpm:demonic_ingot"
+        },
+        
+         "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fpm:demonic_shovel",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " P ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "fpm:purebalance_ingot"
+        },
+        
+         "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fpm:purebalance_shovel",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D D",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "fpm:demonic_ingot"
+        },
+        
+       
+    },
+    
+    "result":
+    {
+        "item": "fpm:chestplate_demonic",
+        "count": 1
+    }
+}
