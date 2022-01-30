@@ -1,13 +1,13 @@
 [
 {
-  "modid": "minecraftendgameexpansion",
+  "modid": "finalprojectmod",
   "name": "Endgamecontent",
   "description": "Endgame content mod for Minecraft",
   "version": "0.1",
   "mcversion": "1.12",
   "url": "",
   "updateUrl": "",
-  "authorList": ["],
+  "authorList": [],
   "credits": " ",
   "logoFile": "",
   "screenshots": [],
